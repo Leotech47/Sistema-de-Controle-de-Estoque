@@ -1,6 +1,4 @@
----
-
-## Explicação do Código
+# Explicação do Código
 
 Este código Python é um **sistema básico de verificação de estoque** que determina se um produto específico está disponível em uma lista pré-definida de itens. Ele simula como uma loja poderia rapidamente checar a existência de um produto.
 
